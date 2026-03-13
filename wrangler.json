@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mql5",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "370eb50c-d476-4587-8b35-2aefd90f8bbb",
+			"database_name": "trades"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
